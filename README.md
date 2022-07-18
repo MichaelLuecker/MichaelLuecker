@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### - 🔭 I’m currently working on an Airbnb case study...
+# akw;jdsfhaw 
+## asdf;lkjawsdg 
+### a;sdlgkh 
 <!--
 **MichaelLuecker/MichaelLuecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
