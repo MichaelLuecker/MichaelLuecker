@@ -1,5 +1,5 @@
 # - 🔭 I’m currently working on an Airbnb case study...
-* I am wrapping up the **Microsoft Data Analytics Certification** Course through **Springboard** to pivot careers from sales to tech.
+* I am wrapping up the **Microsoft Data Analytics Certification** course through **Springboard** to pivot careers from sales to tech.
 * **Python**, **SQL**, **Tableau**, Power BI, Jupyter Notebooks, **Matpolotlib, Seaborn, Pandas, Numpy**, DBeaver...
 <!--
 **MichaelLuecker/MichaelLuecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
