@@ -1,7 +1,7 @@
 # - 🔭 I’m currently working on an Airbnb case study...
-###
-I am wrapping up the Microsoft Data Analytics Certification Course through Springboard to pivot careers from sales to tech.
-Ask me about the projects I used: Python, SQL, Tableau, Power BI, Jupyter Notebooks, Matpolotlib, Seaborn, Pandas, Numpy, DBeaver, Power Query, Excel, and pivot tables.
+* I am wrapping up the Microsoft Data Analytics Certification Course through Springboard to pivot careers from sales to tech.
+* Ask me about the projects I used:
+* Python, SQL, Tableau, Power BI, Jupyter Notebooks, Matpolotlib, Seaborn, Pandas, Numpy, DBeaver, Power Query, Excel, and pivot tables.
 <!--
 **MichaelLuecker/MichaelLuecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
