@@ -1,5 +1,5 @@
 # - 🔭 I just finished my Capstone 2 Project: "House Prices - Advanced Regression Techniques + Prediction"
-* I am wrapping up a **Data Analytics Certification** course through **Springboard** to pivot careers from sales to tech.
+* I am wrapping up a **Data Analytics Certification** course through **Springboard** to upgrade my skills as a data analyst.
 * Skilled in: **Python**, **SQL**, **Tableau**, Power BI, Jupyter Notebooks, **Matpolotlib, Seaborn, Pandas, Numpy**...
 <!--
 **MichaelLuecker/MichaelLuecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
